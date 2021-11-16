@@ -1,21 +1,17 @@
-+++
-title = "Hello Friend"
-date = "1986-09-17"
-author = "Elliot"
-cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
-+++
+---
+title: "Hello"
+date: 2021-11-16T09:08:34Z
+draft: false
+description: "ブログを始めました"
+cover: img/IMG_2046.jpeg
+---
 
-> "Hello, friend?" That's lame.
-> Maybe I should give you a name...
-> But that's a slippery slope.
-> You're only in my head.
-> We have to remember that...
-> Shit.
-> It's actually happened.
-> I'm talking to an imaginary person.
->
-> **— Mr. Robot S01E01**
+ブログを始めました  
+これは今日見つけたランタナという花です  
+繁殖力が強くどんどん増えていくらしいです  
+花の色もカラフルで愉快なので，好きな花です
 
-
-
+保健管理センターに行ったらまた薬が代わりました  
+毎日ものすごく眠いという話をしたら，セルトラリンの副作用だとのことでした  
+この薬は変えたくないので仕方ないです，今は休むときだと思って寝ましょう  
+こう言われたのでたくさん寝ようと思います
