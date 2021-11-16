@@ -21,7 +21,6 @@ jobs:
 
       - name: Build
         run: |
-        cd blog
         hugo --minify
 
       - name: Deploy
