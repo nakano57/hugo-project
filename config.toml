@@ -12,6 +12,7 @@ paginate = 5
   showMenuItems = 2
   # Enable to show reading time in minutes for posts
   showReadingTime = true
+  custom_css = ["assets/css/logo.css"]
 
 [languages]
   [languages.en]
