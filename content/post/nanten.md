@@ -1,7 +1,7 @@
 ---
 title: "福をなしてほしい"
 date: 2021-11-18T13:45:51Z
-draft: true
+draft: false
 description: "お酒を買った日"
 cover: img/IMG_2089.jpeg
 ---
