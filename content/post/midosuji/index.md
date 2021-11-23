@@ -3,7 +3,7 @@ title: "世間はクリスマス"
 date: 2021-11-21T16:00:30Z
 draft: false
 description: "髪を切りに御堂筋まで行った"
-cover: img/IMG_2212.jpeg
+cover: ./IMG_2212.jpeg
 
 ---
 

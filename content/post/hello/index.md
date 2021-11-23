@@ -3,7 +3,7 @@ title: "Hello"
 date: 2021-11-16T09:08:34Z
 draft: false
 description: "ブログを始めました"
-cover: img/IMG_2046.jpeg
+cover: ./img/IMG_2046.jpeg
 ---
 
 ブログを始めました  

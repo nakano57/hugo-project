@@ -3,7 +3,7 @@ title: "50円引きの嬉しさで始まる日"
 date: 2021-11-20T12:29:43Z
 draft: false
 description: "コンビニへ行ったらプロテインが50円引きだった"
-cover: img/IMG_2167.jpeg
+cover: ./img/IMG_2167.jpeg
 
 ---
 

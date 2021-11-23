@@ -3,7 +3,7 @@ title: "The Goal"
 date: 2021-11-22T14:10:01Z
 draft: false
 description: "目標が書けなかった"
-cover: img/2021-11-22 23.07.59.png
+cover: 2021-11-22 23.07.59.png
 ---
 
 漢字が書けなくて、小学生に怒られた  

@@ -3,7 +3,7 @@ title: "セルトラリン日記2日目"
 date: 2021-11-17T10:58:16Z
 draft: false
 description: "何もしなかった一日"
-cover: img/IMG_2057.jpeg
+cover: IMG_2057.jpeg
 
 ---
 
