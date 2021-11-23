@@ -4,6 +4,5 @@ date: {{ .Date }}
 draft: true
 description: "きょうなにがありましたか"
 cover: post/{{ replace .Name "-" "" | urlize }}/
-
 ---
 
