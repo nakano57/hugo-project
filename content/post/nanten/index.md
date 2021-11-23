@@ -3,7 +3,7 @@ title: "福をなしてほしい"
 date: 2021-11-18T13:45:51Z
 draft: false
 description: "お酒を買った日"
-cover: IMG_2089.jpeg
+cover: post/nanten/IMG_2089.jpeg
 ---
 
 起きて活動を始めたらもう夕暮れだった  
