@@ -3,7 +3,7 @@ title: "EBL-VK58A"
 date: 2021-11-19T15:10:09Z
 draft: false
 description: "バイクがまた動き出した日"
-cover: post/EBL-VK58A/IMG_2154.jpeg
+cover: post/ebl-vk58a/IMG_2154.jpeg
 
 ---
 
