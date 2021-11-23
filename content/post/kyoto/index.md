@@ -3,7 +3,7 @@ title: "京都一日観光"
 date: 2021-11-23T16:52:32Z
 draft: false
 description: "紅葉を見に行ってゴキゲンな日"
-cover: post/kyoto/64372271-C314-457D-86B2-0624A8EAC63D.jpeg
+cover: post/kyoto/64372271-C314-457D-86B2-0624A8EAC63D.jpg
 
 ---
 
@@ -18,7 +18,7 @@ cover: post/kyoto/64372271-C314-457D-86B2-0624A8EAC63D.jpeg
 パワーイズパワー
 ゴキゲンだね
 
-![sake](./800E2041-49C0-44E2-A6C2-9F40A6B0EF35.jpeg)
+![sake](./800E2041-49C0-44E2-A6C2-9F40A6B0EF35.jpg)
 
 伏見の18の酒蔵のお酒を飲み比べできるといううれしさが全部詰まったようなセット
 18×4ぐらいやりたかった

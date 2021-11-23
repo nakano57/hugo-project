@@ -24,29 +24,18 @@ jobs:
 
       - name: Resize Image
         run: |
+          sudo apt install jhead
           for file in `\find . -name "*.jpeg" -or -name "*.jpg" | grep content`; do
+            jhead -autorot $file
             mogrify -resize 1280x\> $file
           done
 
-      # - name: Compress Images
-      #   uses: calibreapp/image-actions@master
-      #   with:
-      #     githubToken: ${{ secrets.GITHUB_TOKEN }}
-      #     compressOnly: true
-      #     jpegProgressive: true
-
-      # - name: Deploy Images
-      #   run: |
-      #     git config --local user.email "nakano57@users.noreply.github.com"
-      #     git config --local user.name "nakano57-bot"
-      #     git add .
-      #     git commit -m "Compress Images" --allow-empty
-
-      # - name: Push
-      #   uses: ad-m/github-push-action@v0.6.0
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     branch: main
+      - name: Compress Images
+        uses: calibreapp/image-actions@master
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }}
+          compressOnly: true
+          jpegProgressive: true
 
       - name: Build
         run: hugo --minify
