@@ -2,7 +2,7 @@
 title: "Umbrella"
 date: 2021-11-25T14:34:42Z
 draft: false
-description: "きょうなにがありましたか"
+description: "びっくりするぐらいシンプルな笑顔だった"
 cover: post/umbrella/IMG_2547.jpeg
 ---
 
