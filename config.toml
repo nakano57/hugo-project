@@ -23,7 +23,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "workspaces/blog"
-    subtitle = "simple blog"
+    subtitle = ">> /dev/null"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
