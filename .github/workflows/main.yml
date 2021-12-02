@@ -24,9 +24,9 @@ jobs:
 
       - name: Resize Image
         run: |
-          sudo apt install jhead
+          #sudo apt install jhead
           for file in `\find . -name "*.jpeg" -or -name "*.jpg" | grep content`; do
-            jhead -autorot $file
+            #jhead -autorot $file
             mogrify -resize 1280x\> -quality 80 $file
           done
 
