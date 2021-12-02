@@ -1,7 +1,7 @@
 ---
 title: "StrongZero"
 date: 2021-12-02T17:05:13Z
-draft: true
+draft: false
 description: "9%バンザイ"
 cover: post/strongzero/IMG_2760.jpeg
 ---
