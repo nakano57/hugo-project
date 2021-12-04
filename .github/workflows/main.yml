@@ -28,13 +28,6 @@ jobs:
             mogrify -resize 1280x\> -quality 80 $file
           done
 
-      # - name: Compress Images
-      #   uses: calibreapp/image-actions@master
-      #   with:
-      #     githubToken: ${{ secrets.GITHUB_TOKEN }}
-      #     compressOnly: true
-      #     jpegProgressive: true
-
       - name: Build
         run: hugo --minify
 
