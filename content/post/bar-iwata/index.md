@@ -3,7 +3,7 @@ title: "Bar 岩田"
 date: 2021-12-13T16:50:42Z
 draft: false
 description: "今日もバーに行った"
-cover: post/bariwata/IMG_3197.jpeg
+cover: post/bar-iwata/IMG_3197.jpeg
 ---
 
 バー巡りが趣味になりつつある
