@@ -1,7 +1,7 @@
 ---
 title: "お掃除"
 date: 2021-12-15T13:13:53Z
-draft: true
+draft: false
 description: "無限髪の毛"
 cover: post/ohsouji/IMG_3256.jpeg
 ---
