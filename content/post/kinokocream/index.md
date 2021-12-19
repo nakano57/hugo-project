@@ -3,7 +3,7 @@ title: "キノコとクリームのパスタ"
 date: 2021-12-19T17:58:53Z
 draft: false
 description: "実家ご飯にっき"
-cover: post/kinokocream/71A96BF2-F7EF-4F04-8362-CDE807D4BBB6_1_201_a.heic
+cover: post/kinokocream/IMG_3418.jpeg
 ---
 
 キノコとクリームのパスタがこの世で一番好きだ
