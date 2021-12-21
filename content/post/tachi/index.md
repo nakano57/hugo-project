@@ -1,7 +1,7 @@
 ---
 title: "白子の天ぷら"
 date: 2021-12-21T13:39:08Z
-draft:false
+draft: false
 description: "白子うまし"
 cover: post/tachi/IMG_3436.jpeg
 ---
