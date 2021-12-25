@@ -3,7 +3,7 @@ title: "筋トレした"
 date: 2021-12-25T07:51:07Z
 draft: false
 description: "ジムへ行った"
-cover: post/kintore/
+cover: post/kintore/IMG_3510.jpeg
 ---
 
 筋トレをしにジムへ行った
