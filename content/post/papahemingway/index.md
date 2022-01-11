@@ -1,7 +1,7 @@
 ---
 title: "Papa Hemingway"
 date: 2022-01-11T15:45:44Z
-draft: true
+draft: false
 description: "葉巻チャレンジ"
 cover: post/papahemingway/IMG_5522.jpeg
 ---
