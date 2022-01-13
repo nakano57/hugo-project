@@ -13,7 +13,8 @@ cover: post/iroirodays/IMG_5543.jpeg
 
 ![menu](IMG_5544.jpeg)
 
-中華食堂なのに中華っぽいものがラーメンしかない
+中華洋食なのに中華っぽいものがラーメンしかない
+洋食に偏っている
 
 ![houti](IMG_5547.jpeg)
 
