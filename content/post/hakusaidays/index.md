@@ -1,6 +1,6 @@
 ---
 title: "Hakusai Days"
-date: 2022-01-15T15:43:32Z_/
+date: 2022-01-15T15:43:32Z
 draft: false
 description: "白菜たくさん食べました"
 cover: post/hakusaidays/IMG_5617.jpeg
