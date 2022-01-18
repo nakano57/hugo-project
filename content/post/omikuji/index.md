@@ -3,7 +3,7 @@ title: "おみくじ引いた"
 date: 2022-01-18T14:26:24Z
 draft: false
 description: "めっちゃ運いい"
-cover: post/imdex/IMG_5700.jpeg
+cover: post/omikuji/IMG_5700.jpeg
 ---
 
 雪が降っていた
