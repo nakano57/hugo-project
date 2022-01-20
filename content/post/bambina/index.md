@@ -1,7 +1,7 @@
 ---
 title: "Bambina"
 date: 2022-01-20T13:45:52Z
-draft:false
+draft: false
 description: "酒を飲みました"
 cover: post/bambina/IMG_5772.jpeg
 ---
