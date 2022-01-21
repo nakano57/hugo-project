@@ -1,7 +1,7 @@
 ---
 title: "取り止め"
 date: 2022-01-21T13:32:13Z
-draft: falses
+draft: false
 description: "まとまらない一日"
 cover: post/toritome/IMG_5799.jpeg
 ---
