@@ -14,7 +14,7 @@ cover: post/toritome/IMG_5799.jpeg
 いやー忙しかったね
 卒論にも取り組み出した
 
-![korosue](./IMG_5802.jpe)
+![korosue](./IMG_5802.jpeg)
 
 いつもの酒屋さん
 ラムの試飲を二種類、トリニダードとワーシーパーク
