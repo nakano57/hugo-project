@@ -1,7 +1,7 @@
 ---
 title: "卒論"
 date: 2022-01-26T14:18:44Z
-draft: true
+draft: false
 description: "きょうなにがありましたか"
 cover: post/sotsuron/IMG_5927.jpeg
 ---
