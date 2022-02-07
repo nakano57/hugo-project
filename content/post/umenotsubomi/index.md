@@ -3,7 +3,7 @@ title: "梅のつぼみ"
 date: 2022-02-07T14:46:05Z
 draft: false
 description: "みーつけた"
-cover: post/imdex/IMG_6412.jpeg
+cover: post/umenotsubomi/IMG_6412.jpeg
 ---
 
 梅の花の蕾があった
