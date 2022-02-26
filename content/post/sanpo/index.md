@@ -1,7 +1,7 @@
 ---
 title: "Sanpo"
 date: 2022-02-26T09:54:21Z
-draft: true
+draft: false
 description: "散歩中に見つけたお店"
 cover: post/sanpo/IMG_7105.jpeg
 ---
