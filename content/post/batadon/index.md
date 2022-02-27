@@ -3,7 +3,7 @@ title: "バタ丼"
 date: 2022-02-27T13:26:04Z
 draft: false
 description: "手抜き料理をご紹介"
-cover: post/batadon//workspaces/IMG_7115.jpeg
+cover: post/batadon/IMG_7115.jpeg
 ---
 
 今日もご飯日記です
